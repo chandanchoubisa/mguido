@@ -1,0 +1,34 @@
+{
+    "_id": "5a792977889f7b18b852d70e",
+    "name": "Albert Hall Museum",
+    "city": "jaipur",
+    "lat": "26.9117",
+    "long": "75.8195",
+    "description": "The Albert Hall Museum is a museum in Jaipur in Rajasthan, India. It is the oldest museum of the state and functions as the State museum of Rajasthan. ",
+    "mainImage": "AlbertHall.jpg",
+    "differentImage": ["AH1.jpg",
+        "AH2.jpg", "AH3.jpg", "AH4.jpg"
+    ],
+    "sections": [{
+        "name": "Metal Art",
+        "info": "Info about whole section in detail",
+        "photo": "MetalArt.jpg",
+        "collections": [{
+                "name": "Persian Hukkah",
+                "info": "Silver Hukkah base with floral patterns in medallions: Persia, 19th century Accession Number N/1070",
+                "photo": "Persian.jpg"
+            },
+            {
+                "name": "Mahabharat Vessel",
+                "info": "Mughal style brass vessel embossed with grotesque figures with floral ornaments, from Akbar’s Razm-Nama: Jaipur 19th century. Accession Number 2459",
+                "photo": "Mahabharat.jpg"
+            },
+            {
+                "name": "Ramayana Shield",
+                "info": "Bronze Shield with scenes from the Ramayana from Akbar’s Razm-Nama etched on Silver plated brass plaques by Ganga Baksh: Jaipur 19th century. Accession Number 11142",
+                "photo": "Ramayana.jpg"
+            }
+        ]
+    }],
+    "video": "AH.mp4"
+}
